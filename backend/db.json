@@ -1,0 +1,14 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Ingresso",
+      "price": "24.98"
+    },
+    {
+      "id": 2,
+      "name": "Sprite",
+      "price": "4.99"
+    }
+  ]
+}
